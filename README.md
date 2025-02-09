@@ -43,14 +43,13 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+(https://)(https://drive.google.com/file/d/1RoLJeZ_oG3ElMQxOBNlklCSP13baGPoC/view?usp=sharing)
+*this is the screnshot our product page were customers can buy the products*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1bGNM8_MCcD9ozh8hql6qUcQ-g7ZcGbEO/view?usp=sharing
+*the main page which has a small discription about our brand and features and materials used*
+https://drive.google.com/file/d/15f-1unUCOxOI-7LRGBINTVGnD7UlXbsY/view?usp=sharing
+*special offers and other discounts*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
