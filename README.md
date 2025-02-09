@@ -1,34 +1,30 @@
-# [Project Name] 🎯
+# [PRAKRITHI] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
-
-
+### Team Name: A SQUARE
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [aleena alex] - [scms college of management and technology]
+- Member 2: [aleena k francis] - [scms college of management and technology]
+
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[ Prakrithi is a sustainable initiative dedicated to reducing plastic waste and promoting eco-conscious living. Our project focuses on providing high-quality, biodegradable, and reusable utensils and packaging solutions that are both environmentally friendly and practical for everyday use]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[increasing use of plastic and We call plastic utensils and packaging "disposable," but they don’t actually disappear—they end up in landfills, oceans, and even our food chain]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[Eco-Friendly Utensils and Packaging is the absurd over-reliance on single-use plastics in our daily lives, despite knowing how harmful they are to the environment. Here's a breakdown of the ridiculousness and how Prakrithi addresses it]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [html,css,javascript]
+- [visualstudiocode]
 
 For Hardware:
 - [List main components]
