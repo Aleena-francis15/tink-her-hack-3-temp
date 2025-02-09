@@ -9,7 +9,7 @@
 
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[https://67a816d49c4abca919bfe565--adorable-starlight-d83cc9.netlify.app/]
 
 ### Project Description
 [ Prakrithi is a sustainable initiative dedicated to reducing plastic waste and promoting eco-conscious living. Our project focuses on providing high-quality, biodegradable, and reusable utensils and packaging solutions that are both environmentally friendly and practical for everyday use]
@@ -80,8 +80,9 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://drive.google.com/file/d/1iD4pa_2zyyLwawmCX_btH7EPkxmDHR2F/view?usp=sharing]
+*the above videos shows about our websites*
+
 
 # Additional Demos
 [Add any extra demo materials/links]
